@@ -34,7 +34,7 @@ and confidence with the use and the development of 3D-dimensional models using U
 <h3 align="left">:hammer: Projects in progress </h3>
 <p align="left">
 <ul>
-      <li> <a href='https://github.com/JosephMartinelli/MazeC'>Maze C</a><br> Parallel Computing exam's project, by using OpenMP the task is to create a 2D maze where a path to the exit needs to be found trough the simulations of N balls that can collide with the walls.</li>
+      <li> <a href='https://github.com/JosephMartinelli/MazeC'>Maze C</a><br> Parallel Computing exam's project, made using OpenMP. The task is to create a 2D maze where a path to the exit needs to be found trough the simulations of N balls that can collide with the walls.</li>
       <li> <a href='https://github.com/JosephMartinelli/DataWarehousing'> Data Warehousing: A practical approach</a><br> Data Warehosuing exam's project, the task is to be create a Data Warehouse for an imaginary company.</li>
 </ul>
 </p>

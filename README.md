@@ -21,23 +21,18 @@
 <h3 align="left">:mortar_board:Educational Journey:</h3>
 <p align="left">
       <ul>
-            <li> :notebook_with_decorative_cover:<b>Mcs in Data Science at Università degli Studi di Firenze (September 2021 - Current)</b>
+            <li> :notebook_with_decorative_cover:<b>Mcs in Data Science at Università degli Studi di Firenze (September 2021 - 3 July 2024)</b> <br> Thesis: RAG: The future for commercial Chatbots<br> Final Grade: 105/110</li>
             </li>
             <li> :notebook_with_decorative_cover: <b>Bcs at Università degli Studi di Salerno (September 2021)</b> <br> Thesis: Analysis and classification of dangeours behaviours using deep models for computer vision<br> Final Grade: 109/110</li>
       </ul>
 <h3 align="left">:office:Work Experience:</h3>
 <p align="left">
 <ul>
+      <li><b>Engineering Group (21/10/2024 - Present)</b><br>AI Researcher - R&D Department</li>
+      <li> <b>ALTEN (04/02/2024 – 04/05/2024)</b><br>Master thesis' traineeship</li>
       <li> <b>Kineton (02/23/2021 – 07/23/2021)</b><br>Bacherlor thesis' traineeship at Kineton, during this period I have developed experience
 and confidence with the use and the development of 3D-dimensional models using Unity.</li>
 </ul>
-<h3 align="left">:hammer: Projects in progress </h3>
-<p align="left">
-<ul>
-      <li> <a href='https://github.com/JosephMartinelli/MazeC'>Maze C</a><br> Parallel Computing exam's project, made using OpenMP. The task is to create a 2D maze where a path to the exit needs to be found through the simulations of N balls that can collide with the walls.</li>
-      <li> <a href='https://github.com/JosephMartinelli/DataWarehousing'> Data Warehousing: A practical approach</a><br> Data Warehosuing exam's project, the task is to be create a Data Warehouse for an imaginary company.</li>
-</ul>
-</p>
 <h3 align="left">:white_check_mark: Completed projects:</h3>
 A complete list of all my projects can be found <a href='https://github.com/JosephMartinelli/Projects'>here</a>
 
